@@ -1,0 +1,8 @@
+Deployed the model in render
+
+
+Link: https://naive-bayes-web-app-3.onrender.com
+
+
+
+Currently inactive :)
